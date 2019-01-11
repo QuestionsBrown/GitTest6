@@ -14,6 +14,7 @@ import AVFoundation
 class ViewController: UIViewController, ARSCNViewDelegate {
     
     var branch1 = "Branch1Commit1"
+    var branch1Commit2 = "BranchCommit2"
 
     @IBOutlet var sceneView: ARSCNView!
     

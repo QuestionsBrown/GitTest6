@@ -16,6 +16,10 @@ class ViewController: UIViewController, ARSCNViewDelegate {
     var branch1 = "Branch1Commit1"
     var branch1Commit2 = "BranchCommit2"
     var branch1Commit3 = "BranchCommit3"
+    
+      var branch2Commit1 = "Branch2Commit1"
+    
+    
 
     @IBOutlet var sceneView: ARSCNView!
     
